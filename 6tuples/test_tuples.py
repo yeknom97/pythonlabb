@@ -12,3 +12,4 @@ id2, title2, price2 = book2
 arr = [100, 200 300]
 for (idx, val) in ennumerate(arr):
     print(idx, val)
+'''
